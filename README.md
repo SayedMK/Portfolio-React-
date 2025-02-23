@@ -26,7 +26,9 @@
 
   The URL of the GitHub repository: https://github.com/SayedMK/Portfolio-React-
 
+  The URL of the final functional deployed site link: https://drive.google.com/file/d/1zYWTqa9HgOqYLH-g6sQ4PlEJ1aLWOv7R/view
 
+  
 
 
  
