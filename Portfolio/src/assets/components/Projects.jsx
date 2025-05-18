@@ -10,7 +10,7 @@ const projectsData = [
     image: image1,
     title: 'The Daily Drip',
     description: 'A web application that can track your daily water intake.',
-    technologies: ['HTML', 'Tailwind CSS', 'JavaScript'],
+    technologies: ['Tailwind CSS', 'JavaScript'],
   },
   {
     image: image2,
@@ -33,6 +33,7 @@ const ScrollReveal = ({children}) => {
     </motion.div>
   )
 }
+
 
 
 const ProjectCard = (project) => {

@@ -24,7 +24,7 @@ const Hero = () => {
         className = 'flex max-w-[600px] flex-col items-center justify-center gap-3 text-center'>
           <h1 className = 'bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-4xl font-semibold text-transparent md:text-5xl lg:text-6xl'>Hi, I am Sayed</h1>
           <h3 className = 'text-2xl font-semibold text-gray-700 md:text-3xl lg:text-4xl'>Web Developer</h3>
-          <p className= 'md:text-base text-pretty text-sm text-gray-400'>I am a web developer with a passion for creating beautiful and functional websites. I have experience in HTML, CSS, JavaScript, React, and Node.js. I am always eager to learn new technologies and improve my skills.</p>
+          <p className= 'md:text-base text-pretty text-sm text-gray-400'>I am a web developer with a passion for creating beautiful and functional websites. I have experience in JavaScript, React, Node.js, SQL, Java, and Python. I am always eager to learn new technologies and improve my skills.</p>
       </motion.div>
         </div> 
       </div>
